@@ -1,1 +1,1 @@
-# こんにちは, My Name Is RQuarx
+# こんにちは! My Name Is RQuarx
