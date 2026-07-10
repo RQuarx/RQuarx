@@ -1,8 +1,15 @@
-# What's up?!!
+# やっほーお！ You can call me Kei
+I enjoy building low-level tools, CLI applications, and contributing to the open-source ecosystem.
 
-I'm an avid C++ and any C-related language developer, though I also able to code in other non-C related languages.
+**Languages I'm proficient in**
+- `C++`
+- `C`
+- `Rust`
+- `Python`
 
-- languages I work with: `cpp`, `c`, `rust`, `python`, `lua`
-- languages I don't work with: `haskell`, `zig`, `csharp`, `c3`, `asm`
+**Currently working on**
+- [`aurgh`](https://github.com/RQuarx/aurgh)
 
-Contact me on discord (`kei.cxx`).
+**Contacts**
+- Discord `kei.cxx`
+- E-Mail `RQuarx@protonmail.com`
