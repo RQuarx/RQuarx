@@ -12,4 +12,4 @@ I enjoy building low-level tools, CLI applications, and contributing to the open
 
 **Contacts**
 - Discord `kei.cxx`
-- E-Mail `RQuarx@protonmail.com`
+- Email `RQuarx@protonmail.com`
