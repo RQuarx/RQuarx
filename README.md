@@ -7,9 +7,6 @@ I enjoy building low-level tools, CLI applications, and contributing to the open
 - `Rust`
 - `Python`
 
-**Currently working on**
-- [`aurgh`](https://github.com/RQuarx/aurgh)
-
 **Contacts**
 - Discord `kei.cxx`
 - Email `RQuarx@protonmail.com`
